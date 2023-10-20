@@ -1,0 +1,35 @@
+
+#s1 {
+    position: absolute;
+    border: 2px solid black;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#s2 {
+    position: relative;
+    border: 2px solid black;
+    z-index: 2;
+    cursor: pointer;
+}
+
+#s3 {
+    position: relative;
+    border: 2px solid black;
+    z-index: 3;
+    cursor: pointer;
+}
+
+#s4 {
+    position: relative;
+    border: 2px solid black;
+    z-index: 4;
+    cursor: pointer;
+}
+
+#s5 {
+    position: relative;
+    border: 2px solid black;
+    z-index: 5;
+    cursor: pointer;
+}
